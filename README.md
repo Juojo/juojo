@@ -1,4 +1,11 @@
-## Hi there 👋
+<!--
+![image](https://github.com/user-attachments/assets/55d09328-af20-468f-abeb-806e20666534)
+![image](https://github.com/user-attachments/assets/5aa7b165-8787-4cfa-985a-e895ca1e119d)
+![image](https://github.com/user-attachments/assets/aa0065c9-6a95-48ef-bb81-9da0fb0de672)
+-->
+![image](https://github.com/user-attachments/assets/8da079d9-909a-4578-9c0b-140c6d07d479)
+
+
 
 <!--
 **Juojo/juojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
